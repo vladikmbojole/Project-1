@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+}
+button {
+    position: absolute;
+    top:45%;
+    left: 45%;
+    border: 200px;
+    outline: auto;
+    background-color: aqua;
+    
+}
+
+
